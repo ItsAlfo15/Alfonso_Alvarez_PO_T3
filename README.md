@@ -8,6 +8,7 @@
 
 ## Índice
 - 1.- Introducción
+- 1.1.- Diagrama UML
 - 2.- Pre-requisitos
 - 3.- Instalación
 - 4.- Descarga del programa
@@ -24,6 +25,10 @@
 ### 1. Introducción
 
 <p>Este programa se basa en una tienda online en la que hay tres apartados diferentes, (Cliente, Administrador, Trabajador), el primero es el cliente que es el que puede realizar pedidos, una vez realizado un pedido pasamos al administrador que es el que asigna ese pedido a un trabajador, el trabajador una vez recibido el pedido puede cambiar el estado de este, así como poner un comentario y cambiar la fecha de entrega estimada del pedido. Tanto el cliente como el trabajador pueden consultar y cambiar sus datos personales, asi como ver sus pedidos, el administador si lo desea tambien puede cambiar los datos de un pedido, asi como dar de alta a un nuevo trabajador, siempre y cuando haya suficiente espacio como para asignar uno nuevo, tamnien puede consultar información de todos los pedidos realizados, todos los clientes regisytrados y todos los trabajadores dados de alta.</p>
+
+1.1.- Diagrama UML
+
+![Alvarez_Ocaña_Alfonso_UML_PO_T3 (1)](https://github.com/user-attachments/assets/081d24fd-e5dd-4ac5-a36a-5808b4261eb2)
 
 ### 2. Pre-requisitos
 Para poder ejecutar el programa primero se deberá tener instalada la última versión del JDK, accediendo al siguiente enlace.
