@@ -53,7 +53,7 @@ Una vez abierto el menú clicaremos en la opción que pone "Download ZIP".
 
 ### 5. Ejecución del programa
 
-Cuando se descargue, tendremos que extraer el archivo ZIP, una vez extraido, para abrir el programa, haremos doble click, en el arciho .bat.
+Cuando se descargue, tendremos que extraer el archivo ZIP.main, una vez extraido, deberemos extraer el archivo principal, para abrir el programa, haremos doble click, en el arciho .bat.
 
 Cuando lo abramos, saldrá una opción de Windows Defender parecida a la de la siguiente imagen.
 
